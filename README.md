@@ -1,14 +1,17 @@
 # Syntecxhub_Simple_Calculator
 
+
 A command-line based calculator application developed in Python as part of the Syntecxhub Python Programming Internship.
 
 ## Overview
+
 
 This project demonstrates the implementation of fundamental Python concepts, including functions, loops, conditional statements, exception handling, and user interaction through a menu-driven interface.
 
 The calculator enables users to perform basic arithmetic operations while ensuring robust input validation and graceful error handling.
 
 ## Features
+
 
 * Addition (`+`)
 * Subtraction (`-`)

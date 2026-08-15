@@ -1,5 +1,5 @@
 # Syntecxhub_Simple_Calculator
-
+ 
 
 A command-line based calculator application developed in Python as part of the Syntecxhub Python Programming Internship.
 
